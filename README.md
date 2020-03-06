@@ -9,6 +9,7 @@ Cyberpunk themed Login application.
 - any SQL database
 
 # Notes and Configuration
+- For First Login, Register as new User.
 - Replace Welcome.php with ur homepage.
 - Add your neccessary database configuration to config.php
 
